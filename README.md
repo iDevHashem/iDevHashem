@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 - Hashem is a Full-Stack Mobile & Web Developer.
 
+- I'm Mohamed Hashem, I'm a UI/UX Designer and Full Stack Developer. I'm currently pursuing my Bachelor's degree in Computer Science and Engineering and am currently in junior year.
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=iDevHashem)
 
 [![Github](https://img.shields.io/github/followers/iDevHashem?label=Follow&style=social)](https://github.com/iDevHashem)
