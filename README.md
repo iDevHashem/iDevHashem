@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevHashem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✉️ Find me on:
+### Follow Me ☝
 
 [<img align="left" alt="iDevHashem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />](https://twitter.com/ihashemdev)
 [<img align="left" alt="iDevHashem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" />](https://www.facebook.com/ihashemdev)
